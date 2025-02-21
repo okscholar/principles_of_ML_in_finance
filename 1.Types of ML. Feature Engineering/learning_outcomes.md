@@ -1,7 +1,7 @@
 **Learning Outcomes**
 
 * Main types of machine learning (ML)
-* Workflow structure in machine learning (ML): PACE
+* Workflow structure in machine learning (ML)
 * Recommendation Systems
 * Python Toolbeit for machine learning (ML)
 * Feature Engineering in machine learning (ML)
