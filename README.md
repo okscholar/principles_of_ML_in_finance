@@ -24,4 +24,6 @@ In addition, we’ll rely on an essential Python library for machine learning Sc
 
 It requires basic knowledge of Python-coding and staistics, but is calibrated to deliver all the essentials you need to suceed in this module.
 
-
+Dr. Olga Khon \
+Lecturer in Digital Finance \
+Nottingham Business School
