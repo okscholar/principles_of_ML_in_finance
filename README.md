@@ -7,9 +7,9 @@ The last but not the least. We’ll implement and enhance your knowledge of Pyth
 
 Looking forward to working with you all!
 
-**Dr. Olga Khon \
-**Lecturer in Digital Finance \
-**Nottingham Business School
+** Dr. Olga Khon \
+** Lecturer in Digital Finance \
+** Nottingham Business School
 
 
 ## Module Overview
