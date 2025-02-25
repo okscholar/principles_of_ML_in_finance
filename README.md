@@ -1,7 +1,7 @@
 # Principles of Machine Learning in Finance - 2024/2025 by Dr. Olga D. Khon
 
 Module author and developer: Dr. Olga D. Khon, PhD in Finance
-Level: Postgraduate level
+*Level: Postgraduate level
 
 ## Welcome to Principles of Machine Learning in Finance - 2024/2025!
 In this module we’ll embark on an interdisciplinary journey to dive into the field of machine learning along with its primary application in finance.
