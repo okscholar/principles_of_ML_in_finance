@@ -22,6 +22,6 @@ Our Module serves to deliver an up-to-date knowledge of machine learning in fina
 This module incorporates elements of experiential learning where you’ll be able to apply an acquired knowledge of machine learning models into empirical financial implication with Python.
 We’ll use a real-world data along with synthetic data and world-known public databases like Kaggle sufficiently applied by data professionals to train, test and evaluate machine learning models.
 
-In addition, we’ll rely on an essential Python library for machine learning Sci-Kit Learn and several packages, modules, and librarires needed for data anaylis and visualisation.
+In addition, we’ll rely on an essential Python library for machine learning Scikit-Learn and several packages, modules, and librarires needed for data anaylis and visualisation.
 
 It requires basic knowledge of Python-coding and staistics, but is calibrated to deliver all the essentials you need to suceed in this module.
