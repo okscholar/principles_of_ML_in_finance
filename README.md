@@ -1,5 +1,7 @@
 # Principles of Machine Learning in Finance - 2024/2025 by Dr. Olga D. Khon
 
+Module author and developer: Dr. Olga D. Khon
+
 ## Welcome to Principles of Machine Learning in Finance - 2024/2025!
 In this module we’ll embark on an interdisciplinary journey to dive into the field of machine learning along with its primary application in finance.
 We’ll learn about different types of machine learning (ML), their conceptual  relation to artificial intelligence (AI), and underlying models of both supervised and unsupervised learning.
