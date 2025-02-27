@@ -6,7 +6,7 @@
 ## Welcome to Principles of Machine Learning in Finance - 2024/2025!
 In this module, we’ll embark on an interdisciplinary journey to dive into the field of machine learning along with its primary application in finance.
 We’ll learn about different types of machine learning (ML), their conceptual  relation to artificial intelligence (AI), and underlying models of both supervised and unsupervised learning.
-The last but not the least. We’ll implement and enhance your knowledge of Python coding language while constructing and evaluating machine learning models to solve financial problems with such tasks as prediction, classification and clusterisation.
+The last but not the least. We’ll implement and enhance your knowledge of Python coding language while constructing and evaluating machine learning models to solve financial problems with such tasks as prediction, classification and clustering.
 
 Looking forward to working with you all!
 
