@@ -1,4 +1,4 @@
-** Learning outcomes **
+**Learning outcomes**
 
 * Tree-Based Learning and Decision Trees
 * Ensemble Learning and Random Forest
